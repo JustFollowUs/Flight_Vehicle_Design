@@ -8,7 +8,7 @@
  - [推荐书籍列表](#booklists)
  - [专项领域学习](#special_learning) 
  - [致谢](#many_thanks) 
- ## <h2 id="preparation">前言</h2> 
+ ## <h2 id="preparation">前言</h2>  
  我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
  ## <h2 id="curriculum">课程列表</h2> 
  课程 | 机构 | 参考书 | Notes等其他资料 
