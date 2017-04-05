@@ -17,14 +17,14 @@
  [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)|MIT| [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
  [线性代数](http://open.163.com/special/opencourse/daishu.html)|MIT| [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)|[链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
  [概率论与数理统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)|MIT| [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
- 理论力学 | [暂无] |[暂无] |[暂无]
- 空气动力学| [暂无] |[暂无] |[暂无]
+ [理论力学 ](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20330334X_2015_2+sp/about)|THU| [理论力学 哈工大](https://www.amazon.cn/s/ref=nb_sb_noss_2/459-7493406-3343453?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6)|[暂无]
+ 空气动力学| [暂无] |[Fundamentals of aerodynamics](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00JE12SPQ/ref=sr_1_3?ie=UTF8&qid=1491364875&sr=8-3&keywords=%E7%A9%BA%E6%B0%94%E5%8A%A8%E5%8A%9B%E5%AD%A6)|[暂无]
  结构力学 | [暂无] |[暂无] |[暂无]
  材料力学| [暂无] |[暂无] |[暂无]
- 应用计算空气动力学| [暂无] |[暂无] |[暂无]
+ 应用计算空气动力学| [暂无] |[COMPUTATIONAL FLUID DYNAMICS principles and Applications](https://www.amazon.com/Computational-Fluid-Dynamics-Principles-Applications/dp/0080999956/ref=sr_1_1?s=books&ie=UTF8&qid=1488891087&sr=1-1&keywords=COMPUTATIONAL+FLUID+DYNAMICS+principles+and+Applications)|[暂无]
  高等空气动力学| [暂无] |[暂无] |[暂无]
- 结构有限元素法 | [暂无] |[暂无] |[暂无]
- 复合材料结构设计| [暂无] |[暂无] |[暂无]
+ 结构有限元素法 | [暂无] |[有限单元法基本原理和数值方法](http://xueshu.baidu.com/s?wd=paperuri:(693b613e20b36dca5895377164d22f1d)&filter=sc_long_sign&sc_ks_para=q%3D%E6%9C%89%E9%99%90%E5%8D%95%E5%85%83%E6%B3%95%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%B8%8E%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=4836476203146862831)|[暂无]
+ 复合材料结构设计| [暂无] |复合材料结构力学（杨乃宾）| [暂无]
  现代飞行器结构设计理论 | [暂无] |[暂无] |[暂无]
  现代飞行器设计理论| [暂无] |[暂无] |[暂无]
  
@@ -32,26 +32,26 @@
  ### <h3 id="1.0">数学</h3> 
  课程 | 机构 | 参考书 | Notes等其他资料 
  :-- | :--: | :--: | :--: 
- [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html)|MIT| [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)|[链接](N)
- [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)|MIT| [Multivariable Calculu](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+ [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html)|MIT| [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)|MIT| [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
  [线性代数](http://open.163.com/special/opencourse/daishu.html)|MIT| [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)|[链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
  [概率论与数理统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)|MIT| [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20)|[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
  
  ### <h3 id="2.0">力学</h3> 
  课程 | 机构 | 参考书 | Notes等其他资料 
  :-- | :--: | :--: | :--: 
- 理论力学 | [暂无] |[暂无] |[暂无]
- 空气动力学| [暂无] |[暂无] |[暂无]
+ [理论力学 ](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20330334X_2015_2+sp/about)|THU| [理论力学 哈工大](https://www.amazon.cn/s/ref=nb_sb_noss_2/459-7493406-3343453?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6)|[暂无]
+ 空气动力学| [暂无] |[Fundamentals of aerodynamics](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00JE12SPQ/ref=sr_1_3?ie=UTF8&qid=1491364875&sr=8-3&keywords=%E7%A9%BA%E6%B0%94%E5%8A%A8%E5%8A%9B%E5%AD%A6)|[暂无]
  结构力学 | [暂无] |[暂无] |[暂无]
  材料力学| [暂无] |[暂无] |[暂无]
  
  ### <h3 id="3.0">进阶课程(研究生课程)</h3> 
  课程 | 机构 | 参考书 | Notes等其他资料 
  :-- | :--: | :--: | :--: 
- 应用计算空气动力学| [暂无] |[暂无] |[暂无]
+ 应用计算空气动力学| [暂无] |[COMPUTATIONAL FLUID DYNAMICS principles and Applications](https://www.amazon.com/Computational-Fluid-Dynamics-Principles-Applications/dp/0080999956/ref=sr_1_1?s=books&ie=UTF8&qid=1488891087&sr=1-1&keywords=COMPUTATIONAL+FLUID+DYNAMICS+principles+and+Applications)|[暂无]
  高等空气动力学| [暂无] |[暂无] |[暂无]
- 结构有限元素法 | [暂无] |[暂无] |[暂无]
- 复合材料结构设计| [暂无] |[暂无] |[暂无]
+ 结构有限元素法 | [暂无] |[有限单元法基本原理和数值方法](http://xueshu.baidu.com/s?wd=paperuri:(693b613e20b36dca5895377164d22f1d)&filter=sc_long_sign&sc_ks_para=q%3D%E6%9C%89%E9%99%90%E5%8D%95%E5%85%83%E6%B3%95%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%B8%8E%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=4836476203146862831)|[暂无]
+ 复合材料结构设计| [暂无] |复合材料结构力学（杨乃宾）| [暂无]
  现代飞行器结构设计理论 | [暂无] |[暂无] |[暂无]
  现代飞行器设计理论| [暂无] |[暂无] |[暂无]
  
@@ -67,5 +67,5 @@
  暂无(欢迎大家补充) 
  
  ## <h2 id="many_thanks">致谢</h2> 
- 感谢南京航天航空大学实验组的同学的建议与资料的分享。
+ 感谢热心网友的建议与资料的分享。
  
